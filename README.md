@@ -38,8 +38,7 @@ Based on received commands, Arduino controls the motor driver to move the car in
 ---
 
 ## 📹 Demo
-(Add your YouTube video link here)
-
+https://youtube.com/shorts/5p6UHONxFFM?si=liljSonwE1yUpAmz
 ---
 
 ## 🚀 Future Improvements
